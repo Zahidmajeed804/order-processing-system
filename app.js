@@ -1,4 +1,4 @@
-// 🏢 Task Assignment: Order Processing System (Level 2)
+//Order Processing System (Level 2)
 
 function burgerPriceCalculator(quantity) {
     return quantity * 250;
